@@ -1,3 +1,6 @@
 [submodule "coursly_app"]
 	path = coursly_app
 	url = https://github.com/devestp/coursly_app.git
+[submodule "coursly_web"]
+	path = coursly_web
+	url = https://github.com/devestp/coursly_web.git
